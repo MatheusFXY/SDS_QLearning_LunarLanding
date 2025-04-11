@@ -36,5 +36,7 @@ No local setup required — everything runs directly in the cloud.
 - Soft updates using interpolation
 - Action selection strategies (e.g. epsilon-greedy)
 
+---
+
 ![image](https://github.com/user-attachments/assets/6e47fca7-ab57-4810-8a4e-ee1bcb201460)
 
